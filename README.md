@@ -1,4 +1,4 @@
-# AiTripPlan-AgentScope 项目设计文档
+# TripPlanAgent 项目设计介绍
 
 > 基于 AgentScope Java 的多智能体自驾游行程规划系统  
 > 版本：1.0-SNAPSHOT | 技术栈：Java 17 + Spring Boot 4 + AgentScope 1.0.8

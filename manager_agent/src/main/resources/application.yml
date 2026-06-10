@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+spring:
+  mvc:
+    async:
+      request-timeout: 5m

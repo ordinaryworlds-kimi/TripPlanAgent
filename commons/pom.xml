@@ -17,4 +17,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.agentscope</groupId>
+            <artifactId>agentscope-extensions-rag-simple</artifactId>
+            <version>${AgentScope.version}</version>
+        </dependency>
+    </dependencies>
+
 </project>
